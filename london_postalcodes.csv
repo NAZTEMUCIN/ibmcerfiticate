@@ -1,121 +1,121 @@
-Postcode,Borough,Neigbourhood
-E1,Eastern,Eastern Head district
-E2,Eastern,Bethnal Green
-E3,Eastern,Bow
-E4,Eastern,Chingford
-E5,Eastern,Clapton
-E6,Eastern,East Ham
-E7,Eastern,Forest Gate
-E8,Eastern,Hackney
-E9,Eastern,Homerton
-E10,Eastern,Leyton
-E11,Eastern,Leytonstone
-E12,Eastern,Manor Park
-E13,Eastern,Plaistow
-E14,Eastern,Poplar
-E15,Eastern,Stratford
-E16,Eastern,Victoria Docks and North Woolwich
-E17,Eastern,Walthamstow
-E18,Eastern,Woodford and South Woodford
-E20,Eastern,Olympic Park
-EC1,Eastern Central,Eastern Central Head district
-EC2,Eastern Central,Bishopsgate
-EC3,Eastern Central,Fenchurch Street
-EC4,Eastern Central,EC4 Fleet Street
-N1,Northern,Northern Head district
-N2,Northern,East Finchley
-N3,Northern,Finchley
-N4,Northern,Finsbury Park
-N5,Northern,Highbury
-N6,Northern,Highgate
-N7,Northern,Holloway
-N8,Northern,Hornsey
-N9,Northern,Lower Edmonton
-N10,Northern,Muswell Hill
-N11,Northern,New Southgate
-N12,Northern,North Finchley
-N13,Northern,Palmers Green
-N14,Northern,Southgate
-N15,Northern,South Tottenham
-N16,Northern,Stoke Newington
-N17,Northern,Tottenham
-N18,Northern,Upper Edmonton
-N19,Northern,Upper Holloway
-N20,Northern,Whetstone
-N21,Northern,Winchmore Hill
-N22,Northern,Wood Green
-NW1,North Western,North Western Head district
-NW2,North Western,Cricklewood
-NW3,North Western,Hampstead
-NW4,North Western,Hendon
-NW5,North Western,Kentish Town
-NW6,North Western,Kilburn
-NW7,North Western,Mill Hill
-NW8,North Western,St John's Wood
-NW9,North Western,The Hyde
-NW10,North Western,Willesden
-NW11,North Western,Golders Green
-SE1,South Eastern,South Eastern Head district
-SE2,South Eastern,Abbey Wood
-SE3,South Eastern,Blackheath
-SE4,South Eastern,Brockley
-SE5,South Eastern,Camberwell
-SE6,South Eastern,Catford
-SE7,South Eastern,Charlton
-SE8,South Eastern,Deptford
-SE9,South Eastern,Eltham
-SE10,South Eastern,Greenwich
-SE11,South Eastern,Kennington
-SE12,South Eastern,Lee
-SE13,South Eastern,Lewisham
-SE14,South Eastern,New Cross
-SE15,South Eastern,Peckham
-SE16,South Eastern,Rotherhithe
-SE17,South Eastern,Walworth
-SE18,South Eastern,Woolwich
-SE19,South Eastern,Norwood
-SE20,South Eastern,Anerley
-SE21,South Eastern,Dulwich
-SE22,South Eastern,East Dulwich
-SE23,South Eastern,Forest Hill
-SE24,South Eastern,Herne Hill
-SE25,South Eastern,South Norwood
-SE26,South Eastern,Sydenham
-SE27,South Eastern,West Norwood
-SE28,South Eastern,Thamesmead
-SW1,South Western,South Western Head district
-SW2,South Western,Brixton
-SW3,South Western,Chelsea
-SW4,South Western,Clapham
-SW5,South Western,Earls Court
-SW6,South Western,Fulham
-SW7,South Western,South Kensington
-SW8,South Western,South Lambeth
-SW9,South Western,Stockwell
-SW10,South Western,West Brompton
-SW11,Battersea,Battersea Head district
-SW12,Battersea,Balham
-SW13,Battersea,Barnes
-SW14,Battersea,Mortlake
-SW15,Battersea,Putney
-SW16,Battersea,Streatham
-SW17,Battersea,Tooting
-SW18,Battersea,Wandsworth
-SW19,Battersea,Wimbledon
-SW20,Battersea,West Wimbledon
-W1,Western,Western Head district
-W2,Paddington,Paddington Head district
-W3,Paddington,Acton
-W4,Paddington,Chiswick
-W5,Paddington,Ealing
-W6,Paddington,Hammersmith
-W7,Paddington,Hanwell
-W8,Paddington,Kensington
-W9,Paddington,Maida Hill
-W10,Paddington,North Kensington
-W11,Paddington,Notting Hill
-W12,Paddington,Shepherds Bush
-W13,Paddington,West Ealing
-W14,Paddington,West Kensington
-WC1,Western Central,Head district
-WC2,Western Central,Strand
+Postcode,Borough,Neigbourhood,Latitude,Longitude
+E1,Eastern,Eastern Head district,51.507351,-0.127758
+E2,Eastern,Bethnal Green,51.531103,-0.04808
+E3,Eastern,Bow,51.532089,-0.03082
+E4,Eastern,Chingford,51.632067,0.007363
+E5,Eastern,Clapton,51.56723,-0.06119
+E6,Eastern,East Ham,51.533397,0.049911
+E7,Eastern,Forest Gate,51.543922,0.026427
+E8,Eastern,Hackney,51.573445,-0.072438
+E9,Eastern,Homerton,51.547861,-0.04259
+E10,Eastern,Leyton,51.570222,-0.014694
+E11,Eastern,Leytonstone,51.564962,0.008814
+E12,Eastern,Manor Park,51.550487,0.051412
+E13,Eastern,Plaistow,51.526832,0.030814
+E14,Eastern,Poplar,51.512379,-0.008798
+E15,Eastern,Stratford,51.547181,-0.00813
+E16,Eastern,Victoria Docks and North Woolwich,51.500712,0.063147
+E17,Eastern,Walthamstow,51.590177,-0.017344
+E18,Eastern,Woodford and South Woodford,51.591267,0.026472
+E20,Eastern,Olympic Park,51.543296,-0.016552
+EC1,Eastern Central,Eastern Central Head district,51.507351,-0.127758
+EC2,Eastern Central,Bishopsgate,51.516798,-0.081059
+EC3,Eastern Central,Fenchurch Street,51.511924,-0.080823
+EC4,Eastern Central,Fleet Street,51.514224,-0.107964
+N1,Northern,Northern Head district,51.497293,-0.147197
+N2,Northern,East Finchley,51.592468,-0.166434
+N3,Northern,Finchley,51.597143,-0.197955
+N4,Northern,Finsbury Park,51.564578,-0.104726
+N5,Northern,Highbury,51.556965,-0.097966
+N6,Northern,Highgate,51.571703,-0.150124
+N7,Northern,Holloway,51.557017,-0.115522
+N8,Northern,Hornsey,51.587271,-0.110381
+N9,Northern,Lower Edmonton,51.624813,-0.058181
+N10,Northern,Muswell Hill,51.591182,-0.144301
+N11,Northern,New Southgate,51.611001,-0.135469
+N12,Northern,North Finchley,51.613509,-0.17542
+N13,Northern,Palmers Green,51.621487,-0.107566
+N14,Northern,Southgate,51.624761,-0.124046
+N15,Northern,South Tottenham,51.58401,-0.075759
+N16,Northern,Stoke Newington,51.559676,-0.07937
+N17,Northern,Tottenham,51.605575,-0.068166
+N18,Northern,Upper Edmonton,51.610011,-0.047471
+N19,Northern,Upper Holloway,51.565216,-0.133487
+N20,Northern,Whetstone,51.627989,-0.174033
+N21,Northern,Winchmore Hill,51.632028,-0.095802
+N22,Northern,Wood Green,51.597172,-0.109802
+NW1,North Western,North Western Head district,51.530687,-0.146932
+NW2,North Western,Cricklewood,51.558189,-0.216358
+NW3,North Western,Hampstead,51.555646,-0.176175
+NW4,North Western,Hendon,51.58609,-0.230706
+NW5,North Western,Kentish Town,51.549095,-0.144084
+NW6,North Western,Kilburn,51.539813,-0.198529
+NW7,North Western,Mill Hill,51.613382,-0.246357
+NW8,North Western,St John's Wood,51.534358,-0.174206
+NW9,North Western,The Hyde,51.5864,-0.249812
+NW10,North Western,Willesden,51.54763,-0.236925
+NW11,North Western,Golders Green,51.574001,-0.198773
+SE1,South Eastern,South Eastern Head district,51.501833,-0.090951
+SE2,South Eastern,Abbey Wood,51.492612,0.118818
+SE3,South Eastern,Blackheath,51.465839,0.009034
+SE4,South Eastern,Brockley,51.463772,-0.036603
+SE5,South Eastern,Camberwell,51.474085,-0.093014
+SE6,South Eastern,Catford,51.445395,-0.016091
+SE7,South Eastern,Charlton,51.49004,0.030774
+SE8,South Eastern,Deptford,51.480799,-0.02311
+SE9,South Eastern,Eltham,51.450634,0.057086
+SE10,South Eastern,Greenwich,51.493367,0.009821
+SE11,South Eastern,bethnal green,51.491308,-0.108533
+SE12,South Eastern,Lee,51.449333,0.020484
+SE13,South Eastern,Lewisham,51.441458,-0.011701
+SE14,South Eastern,New Cross,51.476905,-0.03369
+SE15,South Eastern,Peckham,51.470324,-0.067387
+SE16,South Eastern,Rotherhithe,51.49629,-0.041193
+SE17,South Eastern,Walworth,51.487378,-0.095307
+SE18,South Eastern,Woolwich,51.489475,0.067588
+SE19,South Eastern,Norwood,51.398134,-0.0716
+SE20,South Eastern,Anerley,51.411911,-0.067978
+SE21,South Eastern,Dulwich,51.443326,-0.067555
+SE22,South Eastern,East Dulwich,51.454563,-0.07321
+SE23,South Eastern,Forest Hill,51.439778,-0.054642
+SE24,South Eastern,Herne Hill,51.454546,-0.096661
+SE25,South Eastern,South Norwood,51.398134,-0.0716
+SE26,South Eastern,Sydenham,51.42476,-0.059399
+SE27,South Eastern,West Norwood,51.427905,-0.100249
+SE28,South Eastern,Thamesmead,51.505758,0.110059
+SW1,South Western,South Western Head district,51.507351,-0.127758
+SW2,South Western,Brixton,51.461279,-0.115615
+SW3,South Western,Chelsea,51.486943,-0.170037
+SW4,South Western,Clapham,51.463698,-0.136305
+SW5,South Western,Earls Court,51.490331,-0.195842
+SW6,South Western,Fulham,51.477343,-0.201682
+SW7,South Western,South Kensington,51.495329,-0.178991
+SW8,South Western,South Lambeth,51.485381,-0.123321
+SW9,South Western,Stockwell,51.471593,-0.121664
+SW10,South Western,West Brompton,51.483494,-0.196802
+SW11,Battersea,Battersea Head district,51.46761,-0.158348
+SW12,Battersea,Balham,51.443989,-0.14941
+SW13,Battersea,Barnes,51.475294,-0.239205
+SW14,Battersea,Mortlake,51.468736,-0.262742
+SW15,Battersea,Putney,51.459643,-0.214126
+SW16,Battersea,Streatham,51.42826,-0.131734
+SW17,Battersea,Tooting,51.428215,-0.166925
+SW18,Battersea,Wandsworth,51.457072,-0.181782
+SW19,Battersea,Wimbledon,51.418339,-0.220629
+SW20,Battersea,West Wimbledon,51.412317,-0.242284
+W1,Western,Western Head district,51.51369,-0.141487
+W2,Paddington,Paddington Head district,51.509628,-0.170354
+W3,Paddington,Acton,51.508372,-0.27444
+W4,Paddington,Chiswick,51.487627,-0.267173
+W5,Paddington,Ealing,51.525037,-0.341396
+W6,Paddington,Hammersmith,51.491187,-0.223731
+W7,Paddington,Hanwell,51.506637,-0.338323
+W8,Paddington,Kensington,51.50101,-0.193279
+W9,Paddington,Maida Hill,51.524363,-0.201733
+W10,Paddington,North Kensington,51.52467,-0.213888
+W11,Paddington,Notting Hill,51.516013,-0.209015
+W12,Paddington,Shepherds Bush,51.509777,-0.234566
+W13,Paddington,West Ealing,51.51141,-0.318016
+W14,Paddington,West Kensington,51.489862,-0.207001
+WC1,Western Central,Head district,51.507351,-0.127758
+WC2,Western Central,Strand,51.510583,-0.126768
